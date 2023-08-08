@@ -1,0 +1,9 @@
+AIM: Using JFLAP, create a DFA from a given regular expression RE=(a/b)*abb.
+PROCEDURE:
+1.	Go to JFLAP 7.1 and click on regular expression option as we have to change regular expression to Deterministic Finite Automata (DFA).
+2.	Now what we have to do is we have to type the given regular expression with spaces and convert it into Non Deterministic Finite Automata (NFA) the regular expression is ( a + b )* abb. The spaces should also be kept in mind while using the whitespace to write the regular expression.
+3.	Then go to convert and click on convert to NFA.
+4.	After converting click on do all, then click on cursor like button after clicking do right click and layout graph.
+5.	Now again go on convert tab and click on convert to DFA button.
+6.	We will be presented with a DFA again then click on cursor like button after clicking do right click and layout graph.
+7.	We will get the desired DFA output at the end. 

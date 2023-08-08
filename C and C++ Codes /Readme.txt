@@ -1,1 +1,1 @@
-This directory contains all the C++ code files pertaining to the subject of compiler design that I have completed throughout the duration of my enrollment in this course.
+This directory contains all the C++ code files pertaining to the subject of compiler design that I have completed throughout my enrollment in this course. The necessary text files and images for the grammar are also available on this page.
